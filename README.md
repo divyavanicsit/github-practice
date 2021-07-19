@@ -1,2 +1,2 @@
 # github-practice
-trail concepts
+This is the trail version
